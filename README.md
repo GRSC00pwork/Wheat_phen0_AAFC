@@ -18,4 +18,7 @@ Figure 1. Overview of the deep-learning framework and post-processing pipeline f
 
 
 
-## All the statistical codes used, and semantic, and instance segmentation models developed in this study are publicly available here!
+## Code availability
+All statistical analyses and visualizations were conducted in R software (https://www.r-project.org/) with the RStudio interface using several packages unless otherwise stated (v4.5.2; R Core Team, 2025).
+
+Wheat Spike Phenotyping Configuration and training for RESNET101-U-Net-scse architecture and YOLO11X-seg were developed using Python (v3.10.13; conda-forge) on a a high-performance computing cluster.
